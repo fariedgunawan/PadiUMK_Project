@@ -1,4 +1,4 @@
-import { Input, Button, Accordion, AccordionItem } from "@nextui-org/react";
+import { Input, Button } from "@nextui-org/react";
 import Image from "next/image";
 import logo from "../app/assets/logo.png";
 import seven from "../app/assets/seven.png";
@@ -434,7 +434,6 @@ const Landing = () => {
                     </div>
                   </CardFooter>
                 </Card>
-
               </div>
             </div>
           </div>
